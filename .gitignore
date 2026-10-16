@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets and local configuration (for example a TMDB API key)
+.env
+
+# OS files
+.DS_Store
